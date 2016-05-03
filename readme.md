@@ -11,6 +11,8 @@ them public and collected in a certain order.
 Here, in the following, you can find all the topics available by now:
 
 * [Meetup events](http://www.meetup.com/Tarragona-Developers-Meetup/)
-* [Proposals for next meetups](meetups.md)
+* [Proposals for next meetups](https://github.com/tgndevs/meetup/meetups.md)
+
+Participate, learn, share
 
 Join our meetups!
