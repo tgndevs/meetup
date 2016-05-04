@@ -15,6 +15,9 @@
  * Pass tests automatically
  * Continous Delivery
  * Continous Deployment
+* Continuous Integration Systems
+ * Gocd
+ * Ansible
 * Successful stories about:
  * Git workflows
  * Project managers (like gitlab, github, bitbucket, etc.)
@@ -22,26 +25,35 @@
  * Docker in development
  * ???
 * Advanced Git
+ * Rebase vs merge
+ * Advanced log
  * Submodules
  * Alternatives to submodules
  * Dropbox as a git remote
 * Programming languages:
- * AngularJS
- * React
  * Golang
  * Ruby on Rails
  * Node js
  * Python
  * ....
-* Frameworks:
+* Frameworks / Libraries:
+ * AngularJS
+ * React
  * Moodle
  * Zend Framework
- * Symphony
+ * Symfony
 * Open source projects (we contributed, we are contributing, interesting, ...)
 * Your own expertise area
 * Databases
+ * Rethink DB
+ * Mongodb
+ * Postgres
+ * Maria DB
 * Developer tools:
  * IDEs
+  * Vim
+  * Atom
+  * Sublime Text
  * Programming editors
  * Configuration files editors
  * Other tools
