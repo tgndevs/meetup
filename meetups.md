@@ -18,6 +18,7 @@
 * Continuous Integration Systems
  * Gocd
  * Ansible
+ * Gitlab
 * Successful stories about:
  * Git workflows
  * Project managers (like gitlab, github, bitbucket, etc.)
@@ -49,11 +50,10 @@
  * Mongodb
  * Postgres
  * Maria DB
-* Developer tools:
+ * MySQL
+ * Redis
+* Developer tools (Vim, Atom, Sublime, Eclips, Netbeans, PhpStorm, ...):
  * IDEs
-  * Vim
-  * Atom
-  * Sublime Text
  * Programming editors
  * Configuration files editors
  * Other tools
