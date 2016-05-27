@@ -1,4 +1,4 @@
-# Proposals for meetups
+## Done meetups
 
 * Docker [Done!](http://www.meetup.com/Tarragona-Developers-Meetup/events/228350522/)
 * Vagrant [Done!](http://www.meetup.com/Tarragona-Developers-Meetup/events/228350522/)
@@ -8,6 +8,11 @@
 * Git intro [Done!](http://www.meetup.com/Tarragona-Developers-Meetup/events/229781981/)
 * Gitlab & Gitlab CI [Done!](http://www.meetup.com/Tarragona-Developers-Meetup/events/229781981/)
 * Git workflows [Done!](http://www.meetup.com/Tarragona-Developers-Meetup/events/229781981/)
+* Ruby on Rails:
+ * Introduction to Ruby on Rails [Done!](http://www.meetup.com/Tarragona-Developers-Meetup/events/230835954/)
+
+## Proposals for meetups
+
 * Scrum
 * Kanban
 * Agile
