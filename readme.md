@@ -1,19 +1,22 @@
 # Tarragona Developers Meetup
 
-Tarragona developers have organized [a series of meetups](http://www.meetup.com/Tarragona-Developers-Meetup/) to share
-experiences and learn ones from the others.
+The Tarragona Developers group organizes [a series of meetups](http://www.meetup.com/Tarragona-Developers-Meetup/) to share experiences and learn from one another.
 
-# What can you find in this project?
+Go to the following website to check out our meetups and join the meetup group.
 
-This project gathers several aspects from our meetups to make
-them public and collected in a certain order.
+http://www.meetup.com/Tarragona-Developers-Meetup/
 
-Here, in the following, you can find all the topics available by now:
+
+## What can you find here?
+
+This repo helps with the management of our meetups by gathering information about our events. We make everything public and encourage people to contribute to it in any aspect.
+
+For the moment, this is the information available here:
 
 * [Meetup events](http://www.meetup.com/Tarragona-Developers-Meetup/)
 * [Proposals for next meetups](https://github.com/tgndevs/meetup/blob/master/meetups.md)
 * [Slides](https://github.com/tgndevs/slides)
 
-Participate, learn, share
+Participate, learn, share.
 
 Join our meetups!
