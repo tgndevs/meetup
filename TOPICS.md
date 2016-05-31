@@ -54,6 +54,7 @@ Here is a list of topics that can very well fit in the meetup. It doesn't mean t
   * Junit
   * Mocha
   * Phpspec
+  * PHPUnit
   * pytest
   * QUnit
   * RSpec
