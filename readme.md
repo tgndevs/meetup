@@ -10,6 +10,9 @@ http://www.meetup.com/Tarragona-Developers-Meetup/
 
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
+* **[June Meetup: 12-Factor apps and JS Frameworks](http://www.meetup.com/Tarragona-Developers-Meetup/events/231684469/)** @ June 22, 2016.
+  * [Designing Cloud-Native applications](http://adrianmo.github.io/slides/12factor), by *[Adrian Moreno](https://github.com/adrianmo)*
+  * [Introducing and comparing AngularJS and React](#), by *[Jordi Anguela](https://github.com/jordianguela)*
 * **[May Meetup](http://www.meetup.com/Tarragona-Developers-Meetup/events/230835954/)** @ May 25, 2016.
   * [Professionalizing the Front-end](http://www.slideshare.net/JordiAnguela/professionalizing-the-frontend), by *[Jordi Anguela](https://github.com/jordianguela)*
   * [Backend with Ruby on Rails](http://ryanfox1985.github.io/slides/rails101/), by *[Guillermo Guerrero](https://github.com/ryanfox1985)*
