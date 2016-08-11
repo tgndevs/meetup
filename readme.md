@@ -28,7 +28,7 @@ This is the list of meetups and presentations done so far ordered from the most 
   * [Intro to Docker and Containers](http://adrianmo.github.io/slides/docker101/) by *[Adrian Moreno](https://github.com/adrianmo)*
   * [Managing dev environments with Vagrant](http://ryanfox1985.github.io/slides/vagrant101/) by *[Guillermo Guerrero](https://github.com/ryanfox1985)*
   * [Testing Docker with Vagrant](https://drive.google.com/file/d/0B7IDcViGrJDOZ0VtUDlwYjNYaDg/view) by *[Jordi Massaguer Pla](https://github.com/jordimassaguerpla)*
-  * [How to leverage Docker thanks to Kubernetes](https://pipo02mix.github.io/slides/git-workflows.html#/) by *[Fernando Ripoll](https://github.com/pipo02mix)*
+  * [How to leverage Docker thanks to Kubernetes](https://docs.google.com/presentation/d/1MuWJUB_bMxU6WspA1zggNE0QP-03uVI-vqbdDS25kIs/pub?start=true&loop=false&delayms=60000) by *[Fernando Ripoll](https://github.com/pipo02mix)*
 
 
 ## List of topics
