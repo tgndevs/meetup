@@ -10,6 +10,10 @@ http://www.meetup.com/Tarragona-Developers-Meetup/
 
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
+* **[September Meetup: REST APIs](http://www.meetup.com/Tarragona-Developers-Meetup/events/231684469/)** @ September 28, 2016.
+  * [REST architecture, RESTful APIs and an example with Symfony](https://vsalvans.github.io/restapis), by *[Victor Salvans](https://github.com/vsalvans)*
+  * [API documentation and tools with Swagger](http://ryanfox1985.github.io/slides/api_docs_tools), by *[Guillermo Guerrero](https://github.com/ryanfox1985)*
+  * [Demo Postman](https://www.getpostman.com), by *[Alfredo Roca](https://github.com/AlfredoRoca)*
 * **[June Meetup: 12-Factor apps and JS Frameworks](http://www.meetup.com/Tarragona-Developers-Meetup/events/231684469/)** @ June 22, 2016.
   * [Designing Cloud-Native applications](http://adrianmo.github.io/slides/12factor), by *[Adrian Moreno](https://github.com/adrianmo)*
   * [Introducing and comparing AngularJS and React](http://www.slideshare.net/JordiAnguela/professionalizing-the-frontend), by *[Jordi Anguela](https://github.com/jordianguela)*
