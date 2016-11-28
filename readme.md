@@ -10,6 +10,14 @@ http://www.meetup.com/Tarragona-Developers-Meetup/
 
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
+* **[November Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/235569973/)** @ November 24, 2016.
+  * [httpoxy: A web application vulnerability](https://drive.google.com/open?id=0B7IDcViGrJDOOTIwbmo4LXVVTkk), by *[Jordi Massaguer Pla](https://github.com/jordimassaguerpla)*
+  * [Infrastructure as Code with Terraform](http://adrianmo.github.io/slides/terraform-tgndevs), by *[Adrian Moreno](https://github.com/adrianmo)*
+  * [env-checker Ruby gem](https://github.com/ryanfox1985/env-checker), by *[Guillermo Guerrero](https://github.com/ryanfox1985)*
+* **[October Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/235065517/)** @ October 26, 2016.
+  * [SW Development guidelines for C programming language](https://docs.google.com/presentation/d/1-VkEndrzHIdQS_jZlHRUjGnsINS5-rQRqZQYizglpAE/edit#slide=id.p3), by *[Elly Câmpeanu](https://www.linkedin.com/in/ellycampeanu)*
+  * [HW_boot: old platforms and tools to boot OSes](http://sfrias.github.io/slides), by *[Santiago Frias](http://sfrias.github.io/slides)*
+  * [Gitlab runners CI configuration](#), by *[Guillermo Guerrero](https://github.com/ryanfox1985)*
 * **[September Meetup: REST APIs](http://www.meetup.com/Tarragona-Developers-Meetup/events/231684469/)** @ September 28, 2016.
   * [REST architecture, RESTful APIs and an example with Symfony](https://vsalvans.github.io/restapis), by *[Victor Salvans](https://github.com/vsalvans)*
   * [API documentation and tools with Swagger](http://ryanfox1985.github.io/slides/api_docs_tools), by *[Guillermo Guerrero](https://github.com/ryanfox1985)*
