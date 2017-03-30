@@ -15,7 +15,7 @@ This is the list of meetups and presentations done so far ordered from the most 
 * **[January Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/236985818/)** @ January 25, 2017.
   * [Testing apps, tools and integrations](https://tgndevs.github.io/superlists), by *[Adrián Moreno](https://github.com/adrianmo)*, *[Guillermo Guerrero](https://github.com/ryanfox1985)*, and *[Jordi Pujol](https://github.com/jpahullo)*
 * **[December Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/236086896/)** @ December 22, 2016.
-  * [Continuous Integration](https://raw.githubusercontent.com/tgndevs/meetup/master/slides/ContinuousIntegration.pdf), by *[Cristian Cotes](https://github.com/Cotes)*
+  * [Continuous Integration](https://github.com/tgndevs/meetup/blob/master/slides/ContinuousIntegration.pdf), by *[Cristian Cotes](https://github.com/Cotes)*
 * **[November Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/235569973/)** @ November 24, 2016.
   * [httpoxy: A web application vulnerability](https://drive.google.com/open?id=0B7IDcViGrJDOOTIwbmo4LXVVTkk), by *[Jordi Massaguer Pla](https://github.com/jordimassaguerpla)*
   * [Infrastructure as Code with Terraform](http://adrianmo.github.io/slides/terraform-tgndevs), by *[Adrian Moreno](https://github.com/adrianmo)*
