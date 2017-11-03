@@ -10,7 +10,7 @@ http://www.meetup.com/Tarragona-Developers-Meetup/
 
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
-* **[November Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/243770491/)** @ June 7, 2017.
+* **[November Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/243770491/)** @ November 2, 2017.
   * [Introduction to Bitcoin and the blockchain](https://docs.google.com/presentation/d/e/2PACX-1vTCi-Vr5oPoCVv5CFZucIcYdjVtf5BgGP0Fq0yGanszgXRJpqJz0EGG0q7v53Y3jC5MMbjTKSMJurNF/pub), by *[Adrián Moreno](https://github.com/adrianmo)*
   * [Introduction to React Native](http://ryanfox1985.github.io/slides/reactnative101), by *[Alejandro Garcia](https://github.com/agrcrobles)*, and *[Guillermo Guerrero](https://github.com/ryanfox1985)*
 * **[June Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/240393876/)** @ June 7, 2017.
