@@ -10,6 +10,11 @@ http://www.meetup.com/Tarragona-Developers-Meetup/
 
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
+* **[March Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/248102364/)** @ March 8, 2018.
+ * [Decentralized HA through
+   Blockchain](http://jordimassaguerpla.blogspot.com.es/2017/11/decentralized-ha.html), by *[Jordi Massaguer Pla](https://github.com/jordimassaguerpla)*
+* **[January Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/245637980/)** @ January 25, 2018.
+ * [Learned lessons in real world projects](https://www.slideshare.net/codiumteam/learned-lessons-in-real-world-projects-by-jordi-anguela), by *[Jordi Anguela](https://github.com/jordianguela)*
 * **[November Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/243770491/)** @ November 2, 2017.
   * [Introduction to Bitcoin and the blockchain](https://docs.google.com/presentation/d/e/2PACX-1vTCi-Vr5oPoCVv5CFZucIcYdjVtf5BgGP0Fq0yGanszgXRJpqJz0EGG0q7v53Y3jC5MMbjTKSMJurNF/pub), by *[Adrián Moreno](https://github.com/adrianmo)*
   * [Introduction to React Native](http://ryanfox1985.github.io/slides/reactnative101), by *[Alejandro Garcia](https://github.com/agrcrobles)*, and *[Guillermo Guerrero](https://github.com/ryanfox1985)*
