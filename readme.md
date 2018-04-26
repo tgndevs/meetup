@@ -12,15 +12,9 @@ This is the list of meetups and presentations done so far ordered from the most 
 
 * **[April Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/249638089/)** @ April 26, 2018.
  * [Introduction to Machine
-   Learning](https://github.com/tgndevs/meetup/blob/master/s
-lides/101_ML.pdf), by *[Santi
-   Frias](https://github.com/sfrias)*
- * Introduction to
-   RabbitMQ, by *[Marçal
-   Berga](https://github.com/merciberga)*
- * [Reverse proxy for dockerized web
-   apps](https://danitome24.github.io/meetup-nginx-reverseproxy/), by *[Daniel
-Tomé](https://github.com/danitome24)*
+   Learning](https://github.com/tgndevs/meetup/blob/master/slides/101_ML.pdf), by *[Santi Frias](https://github.com/sfrias)*
+ * Introduction to RabbitMQ, by *[Marçal Berga](https://github.com/merciberga)*
+ * [Reverse proxy for dockerized web apps](https://danitome24.github.io/meetup-nginx-reverseproxy/), by *[Daniel Tomé](https://github.com/danitome24)*
 * **[March Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/248102364/)** @ March 8, 2018.
  * [Decentralized HA through
    Blockchain](http://jordimassaguerpla.blogspot.com.es/2017/11/decentralized-ha.html), by *[Jordi Massaguer Pla](https://github.com/jordimassaguerpla)*
