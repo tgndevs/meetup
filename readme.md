@@ -10,10 +10,18 @@ http://www.meetup.com/Tarragona-Developers-Meetup/
 
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
+* **[June Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/251019288/)** @ June 21, 2018.
+ * [Event Storming](http://jpahullo.github.io/slides/eventstorming/), by
+   *[Jordi Pujol](https://github.com/jpahullo)*
+ * Istio, by *[Fernando Ripoll](https://github.com/pipo02mix)*
+* **[May Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/249638584/)** @ May 31, 2018.
+ * [Kata de
+   TDD](https://www.slideshare.net/codiumteam/kata-de-tdd-by-jordi-anguela), by
+*[Jordi Anguela](https://github.com/jordianguela)*
 * **[April Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/249638089/)** @ April 26, 2018.
  * [Introduction to Machine
    Learning](https://github.com/tgndevs/meetup/blob/master/slides/101_ML.pdf), by *[Santi Frias](https://github.com/sfrias)*
- * Introduction to RabbitMQ, by *[Marçal Berga](https://github.com/merciberga)*
+ * [Introduction to RabbitMQ](https://www.slideshare.net/MaralBerga/rabbitmq-tgndevs-meetup), by *[Marçal Berga](https://github.com/merciberga)*
  * [Reverse proxy for dockerized web apps](https://danitome24.github.io/meetup-nginx-reverseproxy/), by *[Daniel Tomé](https://github.com/danitome24)*
 * **[March Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/248102364/)** @ March 8, 2018.
  * [Decentralized HA through
