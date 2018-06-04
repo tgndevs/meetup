@@ -11,23 +11,23 @@ http://www.meetup.com/Tarragona-Developers-Meetup/
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
 * **[June Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/251019288/)** @ June 21, 2018.
- * [Event Storming](http://jpahullo.github.io/slides/eventstorming/), by
+  * [Event Storming](http://jpahullo.github.io/slides/eventstorming/), by
    *[Jordi Pujol](https://github.com/jpahullo)*
- * Istio, by *[Fernando Ripoll](https://github.com/pipo02mix)*
+  * Istio, by *[Fernando Ripoll](https://github.com/pipo02mix)*
 * **[May Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/249638584/)** @ May 31, 2018.
- * [Kata de
+  * [Kata de
    TDD](https://www.slideshare.net/codiumteam/kata-de-tdd-by-jordi-anguela), by
 *[Jordi Anguela](https://github.com/jordianguela)*
 * **[April Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/249638089/)** @ April 26, 2018.
- * [Introduction to Machine
+  * [Introduction to Machine
    Learning](https://github.com/tgndevs/meetup/blob/master/slides/101_ML.pdf), by *[Santi Frias](https://github.com/sfrias)*
- * [Introduction to RabbitMQ](https://www.slideshare.net/MaralBerga/rabbitmq-tgndevs-meetup), by *[Marçal Berga](https://github.com/merciberga)*
- * [Reverse proxy for dockerized web apps](https://danitome24.github.io/meetup-nginx-reverseproxy/), by *[Daniel Tomé](https://github.com/danitome24)*
+  * [Introduction to RabbitMQ](https://www.slideshare.net/MaralBerga/rabbitmq-tgndevs-meetup), by *[Marçal Berga](https://github.com/merciberga)*
+  * [Reverse proxy for dockerized web apps](https://danitome24.github.io/meetup-nginx-reverseproxy/), by *[Daniel Tomé](https://github.com/danitome24)*
 * **[March Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/248102364/)** @ March 8, 2018.
- * [Decentralized HA through
+  * [Decentralized HA through
    Blockchain](http://jordimassaguerpla.blogspot.com.es/2017/11/decentralized-ha.html), by *[Jordi Massaguer Pla](https://github.com/jordimassaguerpla)*
 * **[January Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/245637980/)** @ January 25, 2018.
- * [Learned lessons in real world projects](https://www.slideshare.net/codiumteam/learned-lessons-in-real-world-projects-by-jordi-anguela), by *[Jordi Anguela](https://github.com/jordianguela)*
+  * [Learned lessons in real world projects](https://www.slideshare.net/codiumteam/learned-lessons-in-real-world-projects-by-jordi-anguela), by *[Jordi Anguela](https://github.com/jordianguela)*
 * **[November Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/243770491/)** @ November 2, 2017.
   * [Introduction to Bitcoin and the blockchain](https://docs.google.com/presentation/d/e/2PACX-1vTCi-Vr5oPoCVv5CFZucIcYdjVtf5BgGP0Fq0yGanszgXRJpqJz0EGG0q7v53Y3jC5MMbjTKSMJurNF/pub), by *[Adrián Moreno](https://github.com/adrianmo)*
   * [Introduction to React Native](http://ryanfox1985.github.io/slides/reactnative101), by *[Alejandro Garcia](https://github.com/agrcrobles)*, and *[Guillermo Guerrero](https://github.com/ryanfox1985)*
