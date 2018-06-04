@@ -2,9 +2,19 @@
 
 The Tarragona Developers group organizes [a series of meetups](http://www.meetup.com/Tarragona-Developers-Meetup/) to share experiences and learn from one another.
 
-Go to the following website to check out our upcoming meetups and join the group.
+Go to the following website to check out our upcoming meetups and join the group:
 
-http://www.meetup.com/Tarragona-Developers-Meetup/
+* [http://www.meetup.com/Tarragona-Developers-Meetup/](http://www.meetup.com/Tarragona-Developers-Meetup/)
+
+If you want to talk with us and discuss with all the members those things that
+are important for you, join us also on **Slack**:
+
+1. Go to [http://slack.tgndevs.com/](http://slack.tgndevs.com/) and introduce
+   your email address to get your own invitation.
+1. Go to [https://tgndevs.slack.com/](https://tgndevs.slack.com/) to join our
+   Slack group and join all our channels, like #jobs, #git, #ruby, #javascript, #java, #php or #devops.
+
+
 
 ## List of meetups
 
