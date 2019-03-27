@@ -15,27 +15,40 @@ are important for you, join us also on **Slack**:
    Slack group and join all our channels, like #jobs, #git, #ruby, #javascript, #java, #php or #devops.
 
 
-
 ## List of meetups
 
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
+* **[March Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/259416765/)** @ March 21, 2019.
+  * [Buenas prácticas y código limpio](#), by *[Daniel Sebastián](https://www.linkedin.com/in/danielesebastian/)*
+* **[February Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/257895762/)** @ February 21, 2019.
+  * [Overview of Serverless FaaS](https://github.com/tgndevs/meetup/blob/master/slides/faas_overview_pedro.pdf), by *[Pedro García López](http://pedrogarcialopez.es/)*
+* **[January Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/257666172/)** @ January 23, 2019.
+  * [Hands on Event Storming](#), by *[Daniel Tomé](https://github.com/danitome24)* & *[Jordi Pujol](https://github.com/jpahullo)*
+* **[December Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/256645845/)** @ December 20, 2018.
+  * [Facebook data analysis](#), by *[Giovanni Natale](https://www.linkedin.com/in/giovanni-natale-11394737/)*
+  * [Securing remote access to our infrastructure](https://github.com/tgndevs/meetup/blob/master/slides/securing_remote_access.pdf), by *[Aleix Ramírez](https://www.linkedin.com/in/aleix-ram%C3%ADrez-baena-77b35a70/)*
+* **[November Meetup #2](https://www.meetup.com/Tarragona-Developers-Meetup/events/254447535/)** @ November 22, 2018.
+  * [De los microservicios al monolito](https://www.slideshare.net/RaY4cK/de-los-microservicios-al-monolito), by *[Cristian Cotes](https://github.com/Cotes)*
+* **[November Meetup #1](https://www.meetup.com/Tarragona-Developers-Meetup/events/256152957/)** @ November 17, 2018.
+  * [Arquitecturas listas para DevOps](#), by *[Alberto Gutierrez](https://twitter.com/Guti_Mac)*
+* **[October Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/254381359/)** @ October 30, 2018.
+  * [Log-based architectures](http://adrianmo.github.io/slides/log-architecture/), by *[Adrián Moreno](https://github.com/adrianmo)*
+  * [3D Printing](https://docs.google.com/presentation/d/1XRucOycIgje1C5qwBrlGg_-7wBpEko6I9vkgBPxRSxQ/edit?usp=sharing), by *[Guillermo Guerrero](https://github.com/ryanfox1985)*, and *[Santi Frias](https://github.com/sfrias)*
+* **[September Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/254381124/)** @ September 13, 2018.
+  * [About GDPR](https://es.slideshare.net/extern2000/about-gdpr-sobre-rgpd), by *[Xavi Montaña](https://twitter.com/fxmontana)*
 * **[June Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/251019288/)** @ June 21, 2018.
-  * [Event Storming](http://jpahullo.github.io/slides/eventstorming/), by
-   *[Jordi Pujol](https://github.com/jpahullo)*
-  * Istio, by *[Fernando Ripoll](https://github.com/pipo02mix)*
+  * [Event Storming](http://jpahullo.github.io/slides/eventstorming/), by *[Jordi Pujol](https://github.com/jpahullo)*
+  * [Istio](#), by *[Fernando Ripoll](https://github.com/pipo02mix)*
 * **[May Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/249638584/)** @ May 31, 2018.
-  * [Kata de
-   TDD](https://www.slideshare.net/codiumteam/kata-de-tdd-by-jordi-anguela), by
+  * [Kata de TDD](https://www.slideshare.net/codiumteam/kata-de-tdd-by-jordi-anguela), by
 *[Jordi Anguela](https://github.com/jordianguela)*
 * **[April Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/249638089/)** @ April 26, 2018.
-  * [Introduction to Machine
-   Learning](https://github.com/tgndevs/meetup/blob/master/slides/101_ML.pdf), by *[Santi Frias](https://github.com/sfrias)*
+  * [Introduction to Machine Learning](https://github.com/tgndevs/meetup/blob/master/slides/101_ML.pdf), by *[Santi Frias](https://github.com/sfrias)*
   * [Introduction to RabbitMQ](https://www.slideshare.net/MaralBerga/rabbitmq-tgndevs-meetup), by *[Marçal Berga](https://github.com/merciberga)*
   * [Reverse proxy for dockerized web apps](https://danitome24.github.io/meetup-nginx-reverseproxy/), by *[Daniel Tomé](https://github.com/danitome24)*
 * **[March Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/248102364/)** @ March 8, 2018.
-  * [Decentralized HA through
-   Blockchain](http://jordimassaguerpla.blogspot.com.es/2017/11/decentralized-ha.html), by *[Jordi Massaguer Pla](https://github.com/jordimassaguerpla)*
+  * [Decentralized HA through Blockchain](http://jordimassaguerpla.blogspot.com.es/2017/11/decentralized-ha.html), by *[Jordi Massaguer Pla](https://github.com/jordimassaguerpla)*
 * **[January Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/245637980/)** @ January 25, 2018.
   * [Learned lessons in real world projects](https://www.slideshare.net/codiumteam/learned-lessons-in-real-world-projects-by-jordi-anguela), by *[Jordi Anguela](https://github.com/jordianguela)*
 * **[November Meetup](https://www.meetup.com/Tarragona-Developers-Meetup/events/243770491/)** @ November 2, 2017.
