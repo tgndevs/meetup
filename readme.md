@@ -21,7 +21,7 @@ This is the list of meetups and presentations done so far ordered from the most 
 
 * **[Progressive Web Apps & UX Dark Patterns](https://www.meetup.com/Tarragona-Developers-Meetup/events/265657835/)** @ October 29, 2019.
   * [Progressive Web Apps](https://github.com/tgndevs/meetup/raw/gh-pages/slides/PWA.pdf), by *[Marc Robledo](https://github.com/marcrobledo)*
-  * [UX Dark Patterns](https://github.com/tgndevs/meetup/raw/gh-pages/slides/DarkPatterns-min.pdf), by *[Roberto Andrade](https://www.linkedin.com/in/robertoandradeperez/)*
+  * [UX Dark Patterns](https://github.com/tgndevs/meetup/raw/gh-pages/slides/DarkPatterns.pdf), by *[Roberto Andrade](https://www.linkedin.com/in/robertoandradeperez/)*
 * **[Git Workflows & Jenkins pipelines](https://www.meetup.com/Tarragona-Developers-Meetup/events/261826064/)** @ June 13, 2019.
   * [Mejorando tu workflow con git](#), by *[Dídac Ríos](https://github.com/didacrios)*
   * [Introducción a Jenkins pipelines](#), by *[Carles Mata](https://github.com/cmmata)*
