@@ -19,6 +19,9 @@ If you want to be in touch and discuss about technology with other Meetup member
 
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
+* **[Smart Homes & Katalon Studio](https://www.meetup.com/Tarragona-Developers-Meetup/events/266557369//)** @ December 3, 2019.
+  * [Smart Homes](https://github.com/adrianmo/slides/raw/gh-pages/smart-homes/smart_homes.pdf), by *[Adrián Moreno](https://github.com/adrianmo)*
+  * [Katalon Studio](#), by *[Daniel Sebastián](https://www.linkedin.com/in/danielesebastian/)*
 * **[Progressive Web Apps & UX Dark Patterns](https://www.meetup.com/Tarragona-Developers-Meetup/events/265657835/)** @ October 29, 2019.
   * [Progressive Web Apps](https://github.com/tgndevs/meetup/raw/gh-pages/slides/PWA.pdf), by *[Marc Robledo](https://github.com/marcrobledo)*
   * [UX Dark Patterns](https://github.com/tgndevs/meetup/raw/gh-pages/slides/DarkPatterns.pdf), by *[Roberto Andrade](https://www.linkedin.com/in/robertoandradeperez/)*
