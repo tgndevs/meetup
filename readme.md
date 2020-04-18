@@ -19,6 +19,8 @@ If you want to be in touch and discuss about technology with other Meetup member
 
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
+* **[Aprende a evaluar la usabilidad de tus webs y apps](https://www.meetup.com/Tarragona-Developers-Meetup/events/269887014/)** @ April 16, 2020.
+  * [Evaluando la usabilidad de tus webs y apps](https://cesarmauri.com/es/aprende-a-evaluar-la-usabilidad-de-tus-webs-y-apps/), by *[César Mauri](https://cesarmauri.com)*
 * **[Aprende a gestionar tus servidores Linux](https://www.meetup.com/Tarragona-Developers-Meetup/events/268107587/)** @ February 6, 2020.
   * [Virtualmin for Developers](https://github.com/tgndevs/meetup/raw/gh-pages/slides/virtualmin_for_developers.pdf), by *[Xavi Montaña](https://twitter.com/fxmontana)*
 * **[Smart Homes & Katalon Studio](https://www.meetup.com/Tarragona-Developers-Meetup/events/266557369//)** @ December 3, 2019.
