@@ -19,6 +19,8 @@ If you want to be in touch and discuss about technology with other Meetup member
 
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
+* **[Seguridad y Fiabilidad a Gran Escala](https://www.meetup.com/Tarragona-Developers-Meetup/events/270172679/)** @ May 21, 2020.
+  * [Security and Reliability at Scale](https://docs.google.com/presentation/d/1aB_WZXFgOsmDrEkjItTvLmcKRLvI0-E6cSnr4SgXBOQ/edit#slide=id.gc6f73a04f_0_0), by *[Javier Ramos](https://www.linkedin.com/in/jramosf/)*
 * **[Aprende a evaluar la usabilidad de tus webs y apps](https://www.meetup.com/Tarragona-Developers-Meetup/events/269887014/)** @ April 16, 2020.
   * [Evaluando la usabilidad de tus webs y apps](https://cesarmauri.com/es/aprende-a-evaluar-la-usabilidad-de-tus-webs-y-apps/), by *[César Mauri](https://cesarmauri.com)*
 * **[Aprende a gestionar tus servidores Linux](https://www.meetup.com/Tarragona-Developers-Meetup/events/268107587/)** @ February 6, 2020.
