@@ -17,6 +17,8 @@ If you want to be in touch and discuss about technology with other Meetup member
 
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
+- **[Aprende a monitorizar tus aplicaciones e infraestructura](https://www.meetup.com/Tarragona-Developers-Meetup/events/273425661/)** @ October 8, 2020.
+  - [Aprende a monitorizar tus aplicaciones e infraestructura](https://docs.google.com/presentation/d/1NhPtfYvLb8bskKDZ-GZwxPC_MGQujACg6ucwk6DU7ow/edit#slide=id.g9fff77e220_0_135), by _[Idir Ouhab](https://www.linkedin.com/in/idirouhab/)_
 - **[Visión artificial para dummies con Google Vision AI](https://www.meetup.com/Tarragona-Developers-Meetup/events/271306284/)** @ July 2, 2020.
   - [Visión artificial para dummies con Google Vision AI](https://github.com/tgndevs/meetup/raw/gh-pages/slides/google_vision_ai_lpr_demo.pdf), by _[Oriol Mauri](https://www.linkedin.com/in/oriol-mauri-193a648b/)_
 - **[Seguridad y Fiabilidad a Gran Escala](https://www.meetup.com/Tarragona-Developers-Meetup/events/270172679/)** @ May 21, 2020.
