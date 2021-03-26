@@ -17,6 +17,8 @@ If you want to be in touch and discuss about technology with other Meetup member
 
 This is the list of meetups and presentations done so far ordered from the most recent to the oldest.
 
+- **[GitOps: Despliegue continuo y declarativo de aplicaciones](https://www.meetup.com/Tarragona-Developers-Meetup/events/276963798/)** @ March 25, 2021.
+  - [GitOps: Despliegue continuo y declarativo de aplicaciones](https://www.youtube.com/watch?v=oERbu0wI4gY), by _[Aleix Ramírez](https://www.linkedin.com/in/aleix-ram%C3%ADrez-baena-77b35a70/)_ and _[Adrián Moreno](https://www.linkedin.com/in/adrianmorenomartinez/)_
 - **[Aprende a monitorizar tus aplicaciones e infraestructura](https://www.meetup.com/Tarragona-Developers-Meetup/events/273425661/)** @ October 8, 2020.
   - [Aprende a monitorizar tus aplicaciones e infraestructura](https://docs.google.com/presentation/d/1NhPtfYvLb8bskKDZ-GZwxPC_MGQujACg6ucwk6DU7ow/edit#slide=id.g9fff77e220_0_135), by _[Idir Ouhab](https://www.linkedin.com/in/idirouhab/)_
 - **[Visión artificial para dummies con Google Vision AI](https://www.meetup.com/Tarragona-Developers-Meetup/events/271306284/)** @ July 2, 2020.
